@@ -1,0 +1,161 @@
+
+
+
+body{
+
+	margin: 0;
+}
+
+
+header {
+	background-color: #D3D3D3	; 
+
+
+	
+	padding: 2%;
+	}
+
+
+#logo { 
+  border-radius: 50%;
+  width: 125px; 
+
+
+  display: inline-block;
+  vertical-align: middle;
+  }
+
+
+h1 {
+	color: #3A8EBA; 
+	font-family: sans-serif; 
+	font-size: 45px;
+	
+  	display: inline-block;
+  	vertical-align: middle;
+	}
+
+
+
+
+section { 
+  	background-color: #ffffff;
+	background-size: 7px 7px;
+	background-image: repeating-linear-gradient(45deg, #8ce4ce 0, #8ce4ce 0.7000000000000001px, #ffffff 0, #ffffff 50%);
+
+	padding:2%;
+
+    }
+
+h2 {
+	font-family: candara; 
+	text-align: left; 
+	font-size: 35px; 
+	color:#185c74;
+    }
+
+
+
+#Agave {
+	
+	margin: auto; 
+	height:400px; 
+	border: 25px 
+	inset #b9d7c6;
+	margin-bottom: 20px;
+
+	
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+
+
+
+#p1 {
+	
+	font-size: 2em; 
+	margin: 30px; 
+	color: #58665e; 
+	
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+.image-paragraphe{
+
+	display: flex;
+
+	justify-content: center;
+
+}
+
+.image-lien{
+	display: flex;
+	flex-direction: column;
+
+}
+
+
+.lienphoto{
+	display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+
+    font-size: 25px;
+    background-color: lightgray;
+    padding: 5px 15px;
+    margin: auto;
+    border: 1px solid black;
+
+}
+
+footer {
+	
+	height: 150px; 
+	background-color: #D3D3D3;
+
+}
+
+
+		#p2 {
+
+
+		color: #3A8EBA; 
+		font-size: 20px; 
+
+		margin: auto;
+		font-weight: bold;
+		
+
+		display: inline-block;
+		float: left;
+	
+	
+
+	}
+
+		#p3 { 
+	
+
+		color: #3A8EBA; 
+		font-size: 25px; 
+
+		margin-right: 150px ; 
+		font-weight: bold;
+		margin: 0;
+		margin-right: 50px;
+
+		display: inline-block;
+		float: right;
+	}
+
+	.elementsfooter{
+	
+padding: 50px;
+
+
+  	}
